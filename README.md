@@ -1,2 +1,2 @@
-# monSI
+# leSI
 Mes scripts, configs, aliases...
